@@ -1,2 +1,2 @@
-# class33
-debugging multiple trajectories and bird position
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
